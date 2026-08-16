@@ -13,6 +13,6 @@
 📊 GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Radhika-Verma1&show_icons=true&theme=default" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhika-Verma1&theme=default" width="48%"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika-Verma1&layout=compact&theme=default" width="48%"/> </p><br>
 📌 Featured Projects
-- **[Bus Management System](https://github.com/Radhika-Verma1/busms-main)** — A DBMS-based project to manage bus routes, schedules, and bookings.
+- **[Bus Management System]** <a href="https://github.com/Radhika-Verma1/busms-main"></a> — A DBMS-based project to manage bus routes, schedules, and bookings.
 
 <p align="center">💡 "Always learning, always building."</p>
